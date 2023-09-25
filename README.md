@@ -7,4 +7,4 @@
 - ⚡ Fun fact: Computer Science is more about Mathematics than Computer Science itself
 
 #### 🧰 Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,rust,php,python,html,css,js,nginx,mysql,matlab,docker,tensorflow,selenium,flask,vscode,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,c,rust,php,python,html,css,js,nginx,mysql,matlab,docker,tensorflow,selenium,flask,vscode,vim)](#)
