@@ -1,1 +1,0 @@
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,python,php,bash,java,rust,perl,ruby,go,html,js,css,sass,r,latex,lua,mysql,sqlite,mongodb,wasm,cmake,gradle,gtk,md,nodejs,laravel,tailwind,selenium,pytorch,flask,django,tensorflow,vscode,vim,arduino,matlab,docker,wordpress,firebase,cloudflare,raspberrypi,unity,androidstudio)](https://skillicons.dev)
