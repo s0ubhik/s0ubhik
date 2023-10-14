@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my Internship
 - 🌱 I’m currently learning Codeigniter
-- 🤔 I’m looking for help with Operating System Developemnet
+- 🤔 I’m looking for help with Operating System Development
 - 📫 Mail me at `soubhik1809@gmail.com`
 - ⚡ Fun fact: Computer Science is more about Mathematics than Computer Science itself
 
